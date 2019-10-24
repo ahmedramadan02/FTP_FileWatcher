@@ -1,0 +1,103 @@
+[6/15/2015 1:00:17 PM]	Downloading critical...
+[6/15/2015 1:00:19 PM]	Downloading 100%
+[6/15/2015 1:00:19 PM]	downlaoding...
+[6/15/2015 1:00:19 PM]	Downlaod critical completed...
+[6/15/2015 1:00:19 PM]	Database downloaded successsfully!
+[6/15/2015 1:00:20 PM]	Downloading 1%
+[6/15/2015 1:00:20 PM]	Downloading 2%
+[6/15/2015 1:00:21 PM]	Downloading 5%
+[6/15/2015 1:00:21 PM]	Downloading 8%
+[6/15/2015 1:00:21 PM]	Downloading 14%
+[6/15/2015 1:00:22 PM]	Downloading 17%
+[6/15/2015 1:00:22 PM]	Downloading 20%
+[6/15/2015 1:00:23 PM]	Downloading 26%
+[6/15/2015 1:00:23 PM]	Downloading 29%
+[6/15/2015 1:00:23 PM]	Downloading 32%
+[6/15/2015 1:00:24 PM]	Downloading 37%
+[6/15/2015 1:00:24 PM]	Downloading 38%
+[6/15/2015 1:00:24 PM]	Downloading 43%
+[6/15/2015 1:00:25 PM]	Downloading 43%
+[6/15/2015 1:00:25 PM]	Downloading 49%
+[6/15/2015 1:00:26 PM]	Downloading 52%
+[6/15/2015 1:00:26 PM]	Downloading 55%
+[6/15/2015 1:00:27 PM]	Downloading 61%
+[6/15/2015 1:00:27 PM]	Downloading 61%
+[6/15/2015 1:00:28 PM]	Downloading 62%
+[6/15/2015 1:00:29 PM]	Downloading 67%
+[6/15/2015 1:00:30 PM]	Downloading 73%
+[6/15/2015 1:00:31 PM]	Downloading 74%
+[6/15/2015 1:00:33 PM]	Downloading 74%
+[6/15/2015 1:00:34 PM]	Downloading 75%
+[6/15/2015 1:00:35 PM]	Downloading 75%
+[6/15/2015 1:00:35 PM]	Downloading 75%
+[6/15/2015 1:00:36 PM]	Downloading 75%
+[6/15/2015 1:00:37 PM]	Downloading 78%
+[6/15/2015 1:00:40 PM]	Downloading 79%
+[6/15/2015 1:00:41 PM]	Downloading 84%
+[6/15/2015 1:00:42 PM]	Downloading 87%
+[6/15/2015 1:00:43 PM]	Downloading 90%
+[6/15/2015 1:00:43 PM]	Downloading 96%
+[6/15/2015 1:00:44 PM]	Downloading 99%
+[6/15/2015 1:00:44 PM]	Downloading 100%
+[6/15/2015 1:00:44 PM]	downlaoding...
+[6/15/2015 1:00:44 PM]	All Files downloaded successfully
+[6/15/2015 1:00:46 PM]	Disconnected...
+[6/15/2015 1:00:52 PM]	Downloading critical...
+[6/15/2015 1:00:55 PM]	Downloading 100%
+[6/15/2015 1:00:55 PM]	downlaoding...
+[6/15/2015 1:00:55 PM]	Downlaod critical completed...
+[6/15/2015 1:00:55 PM]	Database downloaded successsfully!
+[6/15/2015 1:01:00 PM]	Downloading 2%
+[6/15/2015 1:01:02 PM]	Downloading 4%
+[6/15/2015 1:01:06 PM]	Downloading 5%
+[6/15/2015 1:01:15 PM]	Downloading 5%
+[6/15/2015 1:01:17 PM]	Downloading 5%
+[6/15/2015 1:01:17 PM]	Downloading 6%
+[6/15/2015 1:01:20 PM]	Downloading 11%
+[6/15/2015 1:01:20 PM]	Downloading 14%
+[6/15/2015 1:01:21 PM]	Downloading 14%
+[6/15/2015 1:01:22 PM]	Downloading 15%
+[6/15/2015 1:01:22 PM]	Downloading 17%
+[6/15/2015 1:01:23 PM]	Downloading 17%
+[6/15/2015 1:01:24 PM]	Downloading 18%
+[6/15/2015 1:01:25 PM]	Downloading 20%
+[6/15/2015 1:01:27 PM]	Downloading 22%
+[6/15/2015 1:01:28 PM]	Downloading 26%
+[6/15/2015 1:01:30 PM]	Downloading 29%
+[6/15/2015 1:01:31 PM]	Downloading 31%
+[6/15/2015 1:01:36 PM]	Downloading 31%
+[6/15/2015 1:01:42 PM]	Downloading 31%
+[6/15/2015 1:01:42 PM]	Downloading 37%
+[6/15/2015 1:01:43 PM]	Downloading 37%
+[6/15/2015 1:01:44 PM]	Downloading 37%
+[6/15/2015 1:01:45 PM]	Downloading 38%
+[6/15/2015 1:01:46 PM]	Downloading 38%
+[6/15/2015 1:01:46 PM]	Downloading 38%
+[6/15/2015 1:01:47 PM]	Downloading 38%
+[6/15/2015 1:01:48 PM]	Downloading 39%
+[6/15/2015 1:01:48 PM]	Downloading 39%
+[6/15/2015 1:01:49 PM]	Downloading 40%
+[6/15/2015 1:01:52 PM]	Downloading 43%
+[6/15/2015 1:01:55 PM]	Downloading 43%
+[6/15/2015 1:01:56 PM]	Downloading 44%
+[6/15/2015 1:01:57 PM]	Downloading 46%
+[6/15/2015 1:02:00 PM]	Downloading 47%
+[6/15/2015 1:02:04 PM]	Downloading 47%
+[6/15/2015 1:02:09 PM]	Downloading 47%
+[6/15/2015 1:02:10 PM]	Downloading 49%
+[6/15/2015 1:02:11 PM]	Downloading 52%
+[6/15/2015 1:02:12 PM]	Downloading 55%
+[6/15/2015 1:02:12 PM]	Downloading 61%
+[6/15/2015 1:02:13 PM]	Downloading 64%
+[6/15/2015 1:02:13 PM]	Downloading 67%
+[6/15/2015 1:02:14 PM]	Downloading 73%
+[6/15/2015 1:02:14 PM]	Downloading 75%
+[6/15/2015 1:02:14 PM]	Downloading 78%
+[6/15/2015 1:02:15 PM]	Downloading 84%
+[6/15/2015 1:02:15 PM]	Downloading 87%
+[6/15/2015 1:02:16 PM]	Downloading 90%
+[6/15/2015 1:02:16 PM]	Downloading 96%
+[6/15/2015 1:02:16 PM]	Downloading 99%
+[6/15/2015 1:02:16 PM]	Downloading 100%
+[6/15/2015 1:02:16 PM]	downlaoding...
+[6/15/2015 1:02:16 PM]	All Files downloaded successfully
